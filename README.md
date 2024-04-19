@@ -8,7 +8,7 @@
 
 ## 스터디 일지
 
-- 2020.07.19
+- 2024.01.19
 
   - [파이썬으로 만드는 OpenCV 프로젝트](http://www.yes24.com/Product/Goods/71534451?OzSrank=1) 책 구매
 - 2024.01.20
@@ -72,3 +72,9 @@
 ## 이미지 파일 다운로드
 
 이미지 파일은 [이곳](https://github.com/dltpdn/insightbook.opencv_project_python)에서 다운받으시면 됩니다.
+
+## 코드 리팩토링 및 최적화 기간
+
+2024 03.06 ~ ing 
+
+
